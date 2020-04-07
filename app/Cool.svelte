@@ -1,0 +1,1 @@
+<label text="cool app" />
