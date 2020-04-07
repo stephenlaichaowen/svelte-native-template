@@ -6,7 +6,7 @@ This is a barebones svelte-native project template. It was created directly from
 
 You can get started with this using `degit`:
 
-```bash
+```
 npx degit halfnelson/svelte-native-template myapp
 cd myapp
 npm install
@@ -18,13 +18,13 @@ Once installed use the `tns preview`, `tns build` or `tns run` commands as for a
 
 Example: install & run application on your device:
 
-```bash
+```
 tns run android
 # or
 tns run ios
 ```
 
-If the above command is not working, run this command to get a QRCode icon then scan with `Playground` APP with your android phone
+Run this command to get a QRCode and scan with `Playground` APP in your mobile phone, this will not install app in your mobile device
 ```
 tns preview
 ```
